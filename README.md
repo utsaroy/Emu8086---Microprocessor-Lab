@@ -18,7 +18,6 @@ Important: Follow your institution’s academic integrity rules. Learn from the 
 - Basic Examples
 - Notes and Tips
 - Contributing
-- License
 
 ## Overview
 - Architecture: Intel 8086 (real-mode, COM-style programs)
@@ -218,9 +217,6 @@ Notes:
 - Open issues or pull requests to add new lab tasks or improvements.
 - Keep code clear and commented.
 - If adding tasks, follow the existing file naming pattern and include a short description at the top of the file.
-
-## License
-This repository is shared for educational purposes. If you need a formal license, you can add MIT in a `LICENSE` file. Use at your own discretion.
 
 ---
 
